@@ -1,6 +1,6 @@
-# EI226-Big-Data-Mining
+# Massive-Data-Mining
 
-Codes for EI226 Big Data Mining in SJTU.
+Codes for Massive Data Mining in SJTU.
 
 # HW1:Wordcount Problem
 
